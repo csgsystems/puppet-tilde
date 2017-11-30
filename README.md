@@ -86,8 +86,7 @@ autonomous collective to determine.
 
 ## Mail
 
-The module sets up postfix for you. Just like tilde.club, it's local
-mail only. Alpine and mutt are installed by default.
+The module sets up postfix for you. Alpine and mutt are installed by default.
 
 ## MotD
 
